@@ -12,4 +12,4 @@ So how can you accomplish the same without spending millions of dollars and mont
 The easiest way is to integrate your call recording system directly with OP3Nvoice. In fact, if you use a system like Twilio – which has Recording Callbacks – you can make the indexing near-realtime with almost no effort.
 
 The full post and explanation are available here:
-http://blog.op3nvoice.com/searching-call-recordings-from-twilio/
+http://clarify.io/blog/searching-call-recordings-from-twilio/
